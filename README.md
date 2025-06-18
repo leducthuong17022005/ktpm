@@ -1,4 +1,4 @@
 # Bài tập lớn môn KTPM 
-Trang web gọi món cho nhà hàng, quán ăn hay quán cafe
+Dự án phát triển website order món cho nhà hàng
 ![Uploading ktpm1.PNG…]()
 ![Uploading ktpm2.PNG…]()
